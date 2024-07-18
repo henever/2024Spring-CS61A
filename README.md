@@ -1,6 +1,6 @@
 # 2022Fall-CS61A
 伯克利的CS61A22Fall的所有家庭作业、实验、项目，以及中译本教材
-
+Original objects are copied from @n0rea5on
 
 
 ## 教材
